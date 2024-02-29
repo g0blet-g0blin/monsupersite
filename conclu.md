@@ -3,5 +3,4 @@ title: Mon super site
 ---
 
 TODO
-{%link intro.md%}
 
